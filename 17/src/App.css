@@ -1,0 +1,9 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 4px solid rgb(255, 93, 93);
+}
+header h1{
+    line-height: 60px;
+    font-size: 20px;
+}
